@@ -1,4 +1,4 @@
-blob:https://web.whatsapp.com/7f8df3e6-7e9d-4db5-8184-ce61c8446ee3
+https://web.whatsapp.com/7f8df3e6-7e9d-4db5-8184-ce61c8446ee3
 # BCBC Peer-Collaboration Evidence
 **Operator**: William James | 20+ Years Executive Protection  
 **Founder**: Flight Power USA [LiPo Systems] + HeliFreak.com  
