@@ -92,6 +92,8 @@ My background includes:
 - SBC/PIC and hardware-adjacent troubleshooting
 - Web communities, moderation, user support, and technical education
 - Public technical platform building and long-term community operations
+- WiFi Halow LoRa Meshtastic and MeshCore Infrastructure and use
+- RF Detection Amplification shielding and manipulation
 
 Notable background includes founding and operating **HeliFreak.com** through a successful acquisition, co-founding **FreakTab.com**, and decades of supporting real users through complex technical problems.
 
