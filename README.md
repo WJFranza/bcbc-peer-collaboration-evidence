@@ -137,6 +137,7 @@ There is a need for beginner-focused AI guidance that helps people:
 - Avoid scams and misinformation
 - Learn safely
 - Use AI productively in real-world situations
+- Empower AI to Empower you - Win Win Approach and Focus
 
 BCBC projects are designed around that need.
 
