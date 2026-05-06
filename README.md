@@ -1,6 +1,6 @@
 # BCBC Peer-Collaboration Evidence
 
-**William J. Franza / Mikey_LikesIT**  
+**William James (Franza - Birth lastname) / Mikey_LikesIT (Nickname)**  
 AI-assisted infrastructure, Linux systems, local AI agents, technical education tools, and practical user-support workflows.
 
 ---
