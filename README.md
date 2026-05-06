@@ -189,7 +189,7 @@ The immediate goals are:
 
 ## Contact
 
-**William J. Franza / Mikey_LikesIT**  
+**William James (Franza - Birth Lastname) / Mikey_LikesIT (Nickname)**  
 GitHub: `WJFranza`  
 Brand/project: **BCBC Technician Tools and Learning System**
 
