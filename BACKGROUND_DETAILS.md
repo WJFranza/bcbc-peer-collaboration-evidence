@@ -10,8 +10,6 @@
 - Bob: Co-owner, community/admin lead  
 - William transferred his half back to Bob when HeliFreak workload required full focus
 
-**RunRyder.com** — Crownline boat forum. Bob served as admin. Cross-pollination with HeliFreak user base.
-
 ## Critical Infrastructure Background — Asheville, NC Region
 **Role:** ITC Technician — built/maintained zero-downtime networks
 
