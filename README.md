@@ -198,6 +198,14 @@ Brand/project: **BCBC Technician Tools and Learning System**
 
 ---
 
+## Infrastructure Support
+
+Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
+
+![ClouDNS Logo](assets/img/cloudns-logo-crop.png)
+
+---
+
 ## Credits
 
 Concepts, project direction, and technical design by **William J. Franza / Mikey_LikesIT**.
