@@ -202,7 +202,7 @@ Brand/project: **BCBC Technician Tools and Learning System**
 
 Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
 
-[https://github.com/WJFranza/bcbc-peer-collaboration-evidence/blob/main/clouddns-logo.png?raw=true]
+[[https://github.com/WJFranza/bcbc-peer-collaboration-evidence/blob/main/clouddns-logo.png?raw=true]](https://github.com/WJFranza/bcbc-peer-collaboration-evidence/blob/main/clouddns-logo.png?raw=true)
 ---
 
 ## Credits
