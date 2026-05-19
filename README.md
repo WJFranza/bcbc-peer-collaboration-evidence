@@ -17,7 +17,7 @@ Background includes executive protection operations, hardware systems developmen
 
 ## 🧠 Technical Background
 
-- SBC / PIC microcontroller programming and embedded systems work
+- SBC / PIC / PLC microcontroller programming and embedded systems work
 - Linux system administration and infrastructure design
 - Network services (Pi-hole, DNS, routing, recovery systems)
 - Large-scale forum and infrastructure operations (HeliFreak.com)
