@@ -1,6 +1,6 @@
 # BCBC Peer-Collaboration Evidence
 
-## 👤 William J. Franza / Mikey_LikesIT
+## 👤 William James (Born - Franza) / Mikey_LikesIT
 GitHub: WJFranza  
 Brand: BCBC Technician Tools and Learning System  
 
