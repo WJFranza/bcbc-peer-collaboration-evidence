@@ -1,6 +1,3 @@
-<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/9ba3c215-833f-4d9e-a07d-31429376014f" />
-<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/ca02d113-15ba-45de-b93a-ecb4d47383fe" />
-<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/ae196a81-3444-4859-89d8-c2dec5d7517e" />
 # BCBC Peer-Collaboration Evidence
 
 ## 👤 William James (Born - Franza) / Mikey_LikesIT
