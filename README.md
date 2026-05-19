@@ -63,7 +63,7 @@ This work has been developed with assistance from ChatGPT and related AI systems
 
 Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
 
-![ClouDNS Logo](assets/img/cloudns-logo.png)
+![ClouDNS Logo](assets/img/cloudns-logo-crop.png)
 
 ## 📬 Contact
 
